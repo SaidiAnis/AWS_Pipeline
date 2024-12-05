@@ -1,4 +1,3 @@
-# AWS_Pipeline
 # AWS Data Pipeline Project
 
 ## Description
